@@ -1,0 +1,16 @@
+{
+  "logType": {
+    "warn": "WARN",
+    "success": "SUCCESS",
+    "info": "INFO",
+    "error": "ERROR",
+    "debug": "DEBUG"
+  },
+  "colors": {
+    "warn": "33m",
+    "success": "32m",
+    "info": "34m",
+    "error": "31m",
+    "debug": "35m"
+  }
+}

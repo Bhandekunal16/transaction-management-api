@@ -1,0 +1,13 @@
+{
+  "mongoUrl": "mongodb+srv://bhandekunal16:SppcHRFdBS74An8v@cluster0.xxevqv7.mongodb.net/transactionMate?retryWrites=true&w=majority&appName=Cluster0",
+  "mongoDbName": "transactionMate",
+  "collection": {
+    "user": "users",
+    "transactions": "transactions",
+    "budgets": "budgets"
+  },
+  "transactionsFlow": {
+    "credit": "credit",
+    "debit": "debit"
+  }
+}
